@@ -15,8 +15,7 @@
 4. [Consultas SQL](#4-consultas-sql)
 5. [Equivalente en pandas (GROUP BY → groupby)](#5-equivalente-en-pandas-group-by--groupby)
 6. [Conclusiones](#6-conclusiones)
-7. [Cómo ejecutar el código](#7-cómo-ejecutar-el-código)
-8. [Referencias](#8-referencias)
+7. [Referencias](#8-referencias)
 
 ---
 
@@ -389,26 +388,8 @@ print("\nEl resultado de pandas es IGUAL al de la consulta SQL.")
 
 ---
 
-## 7. Cómo ejecutar el código
 
-1. Instalar pandas (`sqlite3` ya viene incluido en Python):
-
-```bash
-pip install pandas
-```
-
-2. Copiar los bloques de código **Python** de las secciones 3, 4 y 5 en un archivo (por ejemplo `consultas.py`) o en un cuaderno de Jupyter, en el mismo orden en que aparecen. Los bloques marcados como `sql` son la versión legible de cada consulta; la misma consulta ya está incluida dentro del código Python.
-3. Ejecutar:
-
-```bash
-python consultas.py
-```
-
-El código descarga el CSV desde la URL de la sección 2, por lo que requiere conexión a internet. La base de datos se crea en memoria y no genera archivos. Los resultados de este documento se obtuvieron ejecutando ese mismo código.
-
----
-
-## 8. Referencias
+## 7. Referencias
 
 - Curran, M. (s. f.). *superstoreSales.csv* [Conjunto de datos]. Repositorio `curran/data`, GitHub. <https://raw.githubusercontent.com/curran/data/gh-pages/superstoreSales/superstoreSales.csv>
 - Python Software Foundation. (s. f.). *sqlite3 — DB-API 2.0 interface for SQLite databases*. <https://docs.python.org/3/library/sqlite3.html>
