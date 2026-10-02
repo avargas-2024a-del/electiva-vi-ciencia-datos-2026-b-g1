@@ -16,8 +16,7 @@
 5. [Consultas y hallazgos](#5-consultas-y-hallazgos)
 6. [Data & cleaning](#data--cleaning)
 7. [Conclusiones](#7-conclusiones)
-8. [Cómo ejecutar el código](#8-cómo-ejecutar-el-código)
-9. [Referencias](#9-referencias)
+8. [Referencias](#9-referencias)
 
 ---
 
@@ -376,26 +375,8 @@ The dataset used in this project is Superstore Sales, a public CSV file with 8,3
 
 ---
 
-### 8. Cómo ejecutar el código
 
-1. Instalar las dependencias:
-
-```bash
-pip install pandas
-```
-
-2. Copiar los bloques de código de las secciones 4 y 5 en un archivo (por ejemplo `analisis.py`) o en un cuaderno de Jupyter, en el mismo orden en que aparecen.
-3. Ejecutar:
-
-```bash
-python analisis.py
-```
-
-El código descarga el CSV directamente desde la URL indicada en la sección 2, por lo que requiere conexión a internet. Los resultados mostrados en este documento se obtuvieron ejecutando ese mismo código.
-
----
-
-### 9. Referencias
+### 8. Referencias
 
 - Curran, M. (s. f.). *superstoreSales.csv* [Conjunto de datos]. Repositorio `curran/data`, GitHub. <https://raw.githubusercontent.com/curran/data/gh-pages/superstoreSales/superstoreSales.csv>
 - The pandas development team. (s. f.). *pandas documentation*. <https://pandas.pydata.org/docs/>
