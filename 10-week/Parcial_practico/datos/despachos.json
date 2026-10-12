@@ -1,0 +1,1306 @@
+{
+ "fuente": "API de transportadoras · respuesta guardada el 2026-10-05",
+ "total": 130,
+ "despachos": [
+  {
+   "guia": "G-70189",
+   "id_pedido": "PED-0027",
+   "transportadora": "Flota propia",
+   "fechas": {
+    "compromiso": "2026-09-08",
+    "entrega": "2026-09-07"
+   },
+   "novedad": null
+  },
+  {
+   "guia": "G-70290",
+   "id_pedido": "PED-0041",
+   "transportadora": "Rápido Sur",
+   "fechas": {
+    "compromiso": "2026-09-12",
+    "entrega": "2026-09-12"
+   },
+   "novedad": null
+  },
+  {
+   "guia": "G-70739",
+   "id_pedido": "PED-0105",
+   "transportadora": "TransHuila Express",
+   "fechas": {
+    "compromiso": "2026-09-26",
+    "entrega": "25/09/2026"
+   },
+   "novedad": null
+  },
+  {
+   "guia": "G-70134",
+   "id_pedido": "PED-0019",
+   "transportadora": "Rápido Sur",
+   "fechas": {
+    "compromiso": "2026-09-07",
+    "entrega": "2026-09-07"
+   },
+   "novedad": null
+  },
+  {
+   "guia": "G-70515",
+   "id_pedido": "PED-0073",
+   "transportadora": "Flota propia",
+   "fechas": {
+    "compromiso": "2026-09-18",
+    "entrega": "2026-09-18"
+   },
+   "novedad": null
+  },
+  {
+   "guia": "G-70617",
+   "id_pedido": "PED-0088",
+   "transportadora": "TransHuila Express",
+   "fechas": {
+    "compromiso": "2026-09-23",
+    "entrega": "23/09/2026"
+   },
+   "novedad": null
+  },
+  {
+   "guia": "G-70900",
+   "id_pedido": "PED-0128",
+   "transportadora": "TransHuila Express",
+   "fechas": {
+    "compromiso": "2026-10-02",
+    "entrega": "02/10/2026"
+   },
+   "novedad": null
+  },
+  {
+   "guia": "G-70266",
+   "id_pedido": "PED-0038",
+   "transportadora": "Flota propia",
+   "fechas": {
+    "compromiso": "2026-09-10",
+    "entrega": "2026-09-10"
+   },
+   "novedad": null
+  },
+  {
+   "guia": "G-70833",
+   "id_pedido": "PED-0119",
+   "transportadora": "Flota propia",
+   "fechas": {
+    "compromiso": "2026-09-29",
+    "entrega": "2026-09-29"
+   },
+   "novedad": null
+  },
+  {
+   "guia": "G-70123",
+   "id_pedido": "PED-0017",
+   "transportadora": "Flota propia",
+   "fechas": {
+    "compromiso": "2026-09-05",
+    "entrega": "2026-09-05"
+   },
+   "novedad": null
+  },
+  {
+   "guia": "G-70671",
+   "id_pedido": "PED-0095",
+   "transportadora": "TransHuila Express",
+   "fechas": {
+    "compromiso": "2026-09-23",
+    "entrega": "23/09/2026"
+   },
+   "novedad": null
+  },
+  {
+   "guia": "G-70684",
+   "id_pedido": "PED-0097",
+   "transportadora": "TransHuila Express",
+   "fechas": {
+    "compromiso": "2026-09-25",
+    "entrega": "25/09/2026"
+   },
+   "novedad": null
+  },
+  {
+   "guia": "G-70233",
+   "id_pedido": "PED-0033",
+   "transportadora": "TransHuila Express",
+   "fechas": {
+    "compromiso": "2026-09-10",
+    "entrega": "2026-09-10"
+   },
+   "novedad": null
+  },
+  {
+   "guia": "G-70866",
+   "id_pedido": "PED-0123",
+   "transportadora": "Rápido Sur",
+   "fechas": {
+    "compromiso": "2026-10-01",
+    "entrega": "2026-10-01"
+   },
+   "novedad": null
+  },
+  {
+   "guia": "G-70583",
+   "id_pedido": "PED-0083",
+   "transportadora": "Rápido Sur",
+   "fechas": {
+    "compromiso": "2026-09-21",
+    "entrega": "2026-09-21"
+   },
+   "novedad": null
+  },
+  {
+   "guia": "G-70851",
+   "id_pedido": "PED-0121",
+   "transportadora": "Rápido Sur",
+   "fechas": {
+    "compromiso": "2026-10-01",
+    "entrega": "2026-09-30"
+   },
+   "novedad": null
+  },
+  {
+   "guia": "G-70128",
+   "id_pedido": "PED-0018",
+   "transportadora": "Flota propia",
+   "fechas": {
+    "compromiso": "2026-09-05",
+    "entrega": "2026-09-05"
+   },
+   "novedad": null
+  },
+  {
+   "guia": "G-70805",
+   "id_pedido": "PED-0115",
+   "transportadora": "Flota propia",
+   "fechas": {
+    "compromiso": "2026-09-28",
+    "entrega": "2026-09-28"
+   },
+   "novedad": null
+  },
+  {
+   "guia": "G-70309",
+   "id_pedido": "PED-0044",
+   "transportadora": "Rápido Sur",
+   "fechas": {
+    "compromiso": "2026-09-12",
+    "entrega": "2026-09-12"
+   },
+   "novedad": null
+  },
+  {
+   "guia": "G-70610",
+   "id_pedido": "PED-0087",
+   "transportadora": "TransHuila Express",
+   "fechas": {
+    "compromiso": "2026-09-22",
+    "entrega": "22/09/2026"
+   },
+   "novedad": null
+  },
+  {
+   "guia": "G-70343",
+   "id_pedido": "PED-0049",
+   "transportadora": "Rápido Sur",
+   "fechas": {
+    "compromiso": "2026-09-14",
+    "entrega": "2026-09-17"
+   },
+   "novedad": "Vía cerrada"
+  },
+  {
+   "guia": "G-70152",
+   "id_pedido": "PED-0021",
+   "transportadora": "Flota propia",
+   "fechas": {
+    "compromiso": "2026-09-07",
+    "entrega": "2026-09-07"
+   },
+   "novedad": null
+  },
+  {
+   "guia": "G-70340",
+   "id_pedido": "PED-0048",
+   "transportadora": "Rápido Sur",
+   "fechas": {
+    "compromiso": "2026-09-14",
+    "entrega": "2026-09-15"
+   },
+   "novedad": "Retraso en ruta"
+  },
+  {
+   "guia": "G-70199",
+   "id_pedido": "PED-0028",
+   "transportadora": "TransHuila Express",
+   "fechas": {
+    "compromiso": "2026-09-08",
+    "entrega": "2026-09-08"
+   },
+   "novedad": null
+  },
+  {
+   "guia": "G-70263",
+   "id_pedido": "PED-0037",
+   "transportadora": "Flota propia",
+   "fechas": {
+    "compromiso": "2026-09-10",
+    "entrega": "2026-09-10"
+   },
+   "novedad": null
+  },
+  {
+   "guia": "G-70628",
+   "id_pedido": "PED-0089",
+   "transportadora": "TransHuila Express",
+   "fechas": {
+    "compromiso": "2026-09-23",
+    "entrega": "22/09/2026"
+   },
+   "novedad": null
+  },
+  {
+   "guia": "G-70860",
+   "id_pedido": "PED-0122",
+   "transportadora": "TransHuila Express",
+   "fechas": {
+    "compromiso": "2026-10-01",
+    "entrega": "01/10/2026"
+   },
+   "novedad": null
+  },
+  {
+   "guia": "G-70079",
+   "id_pedido": "PED-0011",
+   "transportadora": "TransHuila Express",
+   "fechas": {
+    "compromiso": "2026-09-05",
+    "entrega": "2026-09-04"
+   },
+   "novedad": null
+  },
+  {
+   "guia": "G-70765",
+   "id_pedido": "PED-0109",
+   "transportadora": "TransHuila Express",
+   "fechas": {
+    "compromiso": "2026-09-28",
+    "entrega": null
+   },
+   "novedad": "Reprogramado por la tienda"
+  },
+  {
+   "guia": "G-70331",
+   "id_pedido": "PED-0047",
+   "transportadora": "TransHuila Express",
+   "fechas": {
+    "compromiso": "2026-09-12",
+    "entrega": "2026-09-12"
+   },
+   "novedad": null
+  },
+  {
+   "guia": "G-70490",
+   "id_pedido": "PED-0070",
+   "transportadora": "Flota propia",
+   "fechas": {
+    "compromiso": "2026-09-17",
+    "entrega": "2026-09-17"
+   },
+   "novedad": null
+  },
+  {
+   "guia": "G-70638",
+   "id_pedido": "PED-0091",
+   "transportadora": "Rápido Sur",
+   "fechas": {
+    "compromiso": "2026-09-24",
+    "entrega": "2026-09-26"
+   },
+   "novedad": "Retraso en ruta"
+  },
+  {
+   "guia": "G-70704",
+   "id_pedido": "PED-0100",
+   "transportadora": "TransHuila Express",
+   "fechas": {
+    "compromiso": "2026-09-25",
+    "entrega": "25/09/2026"
+   },
+   "novedad": null
+  },
+  {
+   "guia": "G-70302",
+   "id_pedido": "PED-0043",
+   "transportadora": "TransHuila Express",
+   "fechas": {
+    "compromiso": "2026-09-11",
+    "entrega": "2026-09-11"
+   },
+   "novedad": null
+  },
+  {
+   "guia": "G-70913",
+   "id_pedido": "PED-0130",
+   "transportadora": "Rápido Sur",
+   "fechas": {
+    "compromiso": "2026-10-02",
+    "entrega": null
+   },
+   "novedad": "Reprogramado por la tienda"
+  },
+  {
+   "guia": "G-70592",
+   "id_pedido": "PED-0084",
+   "transportadora": "TransHuila Express",
+   "fechas": {
+    "compromiso": "2026-09-21",
+    "entrega": "21/09/2026"
+   },
+   "novedad": null
+  },
+  {
+   "guia": "G-70507",
+   "id_pedido": "PED-0072",
+   "transportadora": "TransHuila Express",
+   "fechas": {
+    "compromiso": "2026-09-18",
+    "entrega": "18/09/2026"
+   },
+   "novedad": null
+  },
+  {
+   "guia": "G-70419",
+   "id_pedido": "PED-0059",
+   "transportadora": "TransHuila Express",
+   "fechas": {
+    "compromiso": "2026-09-16",
+    "entrega": "16/09/2026"
+   },
+   "novedad": null
+  },
+  {
+   "guia": "G-70397",
+   "id_pedido": "PED-0056",
+   "transportadora": "Rápido Sur",
+   "fechas": {
+    "compromiso": "2026-09-16",
+    "entrega": "2026-09-17"
+   },
+   "novedad": "Vehículo varado"
+  },
+  {
+   "guia": "G-70728",
+   "id_pedido": "PED-0104",
+   "transportadora": "Rápido Sur",
+   "fechas": {
+    "compromiso": "2026-09-26",
+    "entrega": "2026-09-26"
+   },
+   "novedad": null
+  },
+  {
+   "guia": "G-70827",
+   "id_pedido": "PED-0118",
+   "transportadora": "TransHuila Express",
+   "fechas": {
+    "compromiso": "2026-09-30",
+    "entrega": "30/09/2026"
+   },
+   "novedad": null
+  },
+  {
+   "guia": "G-70447",
+   "id_pedido": "PED-0063",
+   "transportadora": "Flota propia",
+   "fechas": {
+    "compromiso": "2026-09-16",
+    "entrega": "2026-09-16"
+   },
+   "novedad": null
+  },
+  {
+   "guia": "G-70887",
+   "id_pedido": "PED-0126",
+   "transportadora": "TransHuila Express",
+   "fechas": {
+    "compromiso": "2026-10-02",
+    "entrega": "01/10/2026"
+   },
+   "novedad": null
+  },
+  {
+   "guia": "G-70484",
+   "id_pedido": "PED-0069",
+   "transportadora": "TransHuila Express",
+   "fechas": {
+    "compromiso": "2026-09-18",
+    "entrega": "18/09/2026"
+   },
+   "novedad": null
+  },
+  {
+   "guia": "G-70907",
+   "id_pedido": "PED-0129",
+   "transportadora": "TransHuila Express",
+   "fechas": {
+    "compromiso": "2026-10-02",
+    "entrega": "02/10/2026"
+   },
+   "novedad": null
+  },
+  {
+   "guia": "G-70016",
+   "id_pedido": "PED-0002",
+   "transportadora": "Rápido Sur",
+   "fechas": {
+    "compromiso": "2026-09-03",
+    "entrega": "2026-09-04"
+   },
+   "novedad": "Retraso en ruta"
+  },
+  {
+   "guia": "G-70799",
+   "id_pedido": "PED-0114",
+   "transportadora": "Rápido Sur",
+   "fechas": {
+    "compromiso": "2026-09-28",
+    "entrega": "2026-09-28"
+   },
+   "novedad": null
+  },
+  {
+   "guia": "G-70087",
+   "id_pedido": "PED-0012",
+   "transportadora": "Rápido Sur",
+   "fechas": {
+    "compromiso": "2026-09-05",
+    "entrega": "2026-09-06"
+   },
+   "novedad": "Vía cerrada"
+  },
+  {
+   "guia": "G-70497",
+   "id_pedido": "PED-0071",
+   "transportadora": "Flota propia",
+   "fechas": {
+    "compromiso": "2026-09-18",
+    "entrega": "2026-09-18"
+   },
+   "novedad": null
+  },
+  {
+   "guia": "G-70530",
+   "id_pedido": "PED-0075",
+   "transportadora": "TransHuila Express",
+   "fechas": {
+    "compromiso": "2026-09-19",
+    "entrega": "19/09/2026"
+   },
+   "novedad": null
+  },
+  {
+   "guia": "G-70217",
+   "id_pedido": "PED-0031",
+   "transportadora": "Rápido Sur",
+   "fechas": {
+    "compromiso": "2026-09-10",
+    "entrega": "2026-09-10"
+   },
+   "novedad": null
+  },
+  {
+   "guia": "G-70074",
+   "id_pedido": "PED-0010",
+   "transportadora": "TransHuila Express",
+   "fechas": {
+    "compromiso": "2026-09-04",
+    "entrega": "2026-09-04"
+   },
+   "novedad": null
+  },
+  {
+   "guia": "G-70239",
+   "id_pedido": "PED-0034",
+   "transportadora": "Flota propia",
+   "fechas": {
+    "compromiso": "2026-09-09",
+    "entrega": "2026-09-09"
+   },
+   "novedad": null
+  },
+  {
+   "guia": "G-70276",
+   "id_pedido": "PED-0039",
+   "transportadora": "Rápido Sur",
+   "fechas": {
+    "compromiso": "2026-09-11",
+    "entrega": "2026-09-11"
+   },
+   "novedad": null
+  },
+  {
+   "guia": "G-70654",
+   "id_pedido": "PED-0093",
+   "transportadora": "Rápido Sur",
+   "fechas": {
+    "compromiso": "2026-09-24",
+    "entrega": "2026-09-23"
+   },
+   "novedad": null
+  },
+  {
+   "guia": "G-70042",
+   "id_pedido": "PED-0006",
+   "transportadora": "Rápido Sur",
+   "fechas": {
+    "compromiso": "2026-09-04",
+    "entrega": "2026-09-04"
+   },
+   "novedad": null
+  },
+  {
+   "guia": "G-70664",
+   "id_pedido": "PED-0094",
+   "transportadora": "TransHuila Express",
+   "fechas": {
+    "compromiso": "2026-09-24",
+    "entrega": "24/09/2026"
+   },
+   "novedad": null
+  },
+  {
+   "guia": "G-70536",
+   "id_pedido": "PED-0076",
+   "transportadora": "Flota propia",
+   "fechas": {
+    "compromiso": "2026-09-19",
+    "entrega": "2026-09-19"
+   },
+   "novedad": null
+  },
+  {
+   "guia": "G-70027",
+   "id_pedido": "PED-0003",
+   "transportadora": "Rápido Sur",
+   "fechas": {
+    "compromiso": "2026-09-03",
+    "entrega": "2026-09-03"
+   },
+   "novedad": null
+  },
+  {
+   "guia": "G-70245",
+   "id_pedido": "PED-0035",
+   "transportadora": "Rápido Sur",
+   "fechas": {
+    "compromiso": "2026-09-10",
+    "entrega": "2026-09-13"
+   },
+   "novedad": "Vehículo varado"
+  },
+  {
+   "guia": "G-70479",
+   "id_pedido": "PED-0068",
+   "transportadora": "Flota propia",
+   "fechas": {
+    "compromiso": "2026-09-17",
+    "entrega": "2026-09-17"
+   },
+   "novedad": null
+  },
+  {
+   "guia": "G-70173",
+   "id_pedido": "PED-0024",
+   "transportadora": "Flota propia",
+   "fechas": {
+    "compromiso": "2026-09-07",
+    "entrega": "2026-09-07"
+   },
+   "novedad": null
+  },
+  {
+   "guia": "G-70747",
+   "id_pedido": "PED-0106",
+   "transportadora": "Rápido Sur",
+   "fechas": {
+    "compromiso": "2026-09-28",
+    "entrega": "2026-09-28"
+   },
+   "novedad": null
+  },
+  {
+   "guia": "G-70384",
+   "id_pedido": "PED-0054",
+   "transportadora": "Rápido Sur",
+   "fechas": {
+    "compromiso": "2026-09-14",
+    "entrega": "2026-09-14"
+   },
+   "novedad": null
+  },
+  {
+   "guia": "G-70093",
+   "id_pedido": "PED-0013",
+   "transportadora": "Rápido Sur",
+   "fechas": {
+    "compromiso": "2026-09-05",
+    "entrega": "2026-09-05"
+   },
+   "novedad": null
+  },
+  {
+   "guia": "G-70031",
+   "id_pedido": "PED-0004",
+   "transportadora": "TransHuila Express",
+   "fechas": {
+    "compromiso": "2026-09-03",
+    "entrega": "2026-09-03"
+   },
+   "novedad": null
+  },
+  {
+   "guia": "G-70595",
+   "id_pedido": "PED-0085",
+   "transportadora": "TransHuila Express",
+   "fechas": {
+    "compromiso": "2026-09-21",
+    "entrega": "21/09/2026"
+   },
+   "novedad": null
+  },
+  {
+   "guia": "G-70824",
+   "id_pedido": "PED-0117",
+   "transportadora": "TransHuila Express",
+   "fechas": {
+    "compromiso": "2026-09-30",
+    "entrega": "30/09/2026"
+   },
+   "novedad": null
+  },
+  {
+   "guia": "G-70816",
+   "id_pedido": "PED-0116",
+   "transportadora": "TransHuila Express",
+   "fechas": {
+    "compromiso": "2026-09-30",
+    "entrega": "30/09/2026"
+   },
+   "novedad": null
+  },
+  {
+   "guia": "G-70141",
+   "id_pedido": "PED-0020",
+   "transportadora": "TransHuila Express",
+   "fechas": {
+    "compromiso": "2026-09-07",
+    "entrega": "2026-09-06"
+   },
+   "novedad": null
+  },
+  {
+   "guia": "G-70672",
+   "id_pedido": "PED-0096",
+   "transportadora": "Rápido Sur",
+   "fechas": {
+    "compromiso": "2026-09-25",
+    "entrega": "2026-09-27"
+   },
+   "novedad": "Retraso en ruta"
+  },
+  {
+   "guia": "G-70298",
+   "id_pedido": "PED-0042",
+   "transportadora": "Rápido Sur",
+   "fechas": {
+    "compromiso": "2026-09-12",
+    "entrega": "2026-09-12"
+   },
+   "novedad": null
+  },
+  {
+   "guia": "G-70690",
+   "id_pedido": "PED-0098",
+   "transportadora": "TransHuila Express",
+   "fechas": {
+    "compromiso": "2026-09-25",
+    "entrega": "25/09/2026"
+   },
+   "novedad": null
+  },
+  {
+   "guia": "G-70050",
+   "id_pedido": "PED-0007",
+   "transportadora": "Flota propia",
+   "fechas": {
+    "compromiso": "2026-09-03",
+    "entrega": "2026-09-03"
+   },
+   "novedad": null
+  },
+  {
+   "guia": "G-70648",
+   "id_pedido": "PED-0092",
+   "transportadora": "TransHuila Express",
+   "fechas": {
+    "compromiso": "2026-09-24",
+    "entrega": "24/09/2026"
+   },
+   "novedad": null
+  },
+  {
+   "guia": "G-70363",
+   "id_pedido": "PED-0051",
+   "transportadora": "Flota propia",
+   "fechas": {
+    "compromiso": "2026-09-14",
+    "entrega": "2026-09-14"
+   },
+   "novedad": null
+  },
+  {
+   "guia": "G-70438",
+   "id_pedido": "PED-0062",
+   "transportadora": "Flota propia",
+   "fechas": {
+    "compromiso": "2026-09-16",
+    "entrega": "2026-09-15"
+   },
+   "novedad": null
+  },
+  {
+   "guia": "G-70519",
+   "id_pedido": "PED-0074",
+   "transportadora": "Rápido Sur",
+   "fechas": {
+    "compromiso": "2026-09-19",
+    "entrega": "2026-09-22"
+   },
+   "novedad": "Retraso en ruta"
+  },
+  {
+   "guia": "G-70548",
+   "id_pedido": "PED-0078",
+   "transportadora": "Rápido Sur",
+   "fechas": {
+    "compromiso": "2026-09-21",
+    "entrega": "2026-09-20"
+   },
+   "novedad": null
+  },
+  {
+   "guia": "G-70723",
+   "id_pedido": "PED-0103",
+   "transportadora": "Rápido Sur",
+   "fechas": {
+    "compromiso": "2026-09-26",
+    "entrega": "2026-09-27"
+   },
+   "novedad": "Retraso en ruta"
+  },
+  {
+   "guia": "G-70111",
+   "id_pedido": "PED-0015",
+   "transportadora": "Flota propia",
+   "fechas": {
+    "compromiso": "2026-09-04",
+    "entrega": "2026-09-03"
+   },
+   "novedad": null
+  },
+  {
+   "guia": "G-70580",
+   "id_pedido": "PED-0082",
+   "transportadora": "Flota propia",
+   "fechas": {
+    "compromiso": "2026-09-21",
+    "entrega": "2026-09-21"
+   },
+   "novedad": null
+  },
+  {
+   "guia": "G-70038",
+   "id_pedido": "PED-0005",
+   "transportadora": "TransHuila Express",
+   "fechas": {
+    "compromiso": "2026-09-03",
+    "entrega": "2026-09-03"
+   },
+   "novedad": null
+  },
+  {
+   "guia": "G-70570",
+   "id_pedido": "PED-0081",
+   "transportadora": "Rápido Sur",
+   "fechas": {
+    "compromiso": "2026-09-21",
+    "entrega": "2026-09-21"
+   },
+   "novedad": null
+  },
+  {
+   "guia": "G-70562",
+   "id_pedido": "PED-0080",
+   "transportadora": "Flota propia",
+   "fechas": {
+    "compromiso": "2026-09-19",
+    "entrega": "2026-09-19"
+   },
+   "novedad": null
+  },
+  {
+   "guia": "G-70460",
+   "id_pedido": "PED-0065",
+   "transportadora": "Flota propia",
+   "fechas": {
+    "compromiso": "2026-09-16",
+    "entrega": "2026-09-17"
+   },
+   "novedad": "Retraso en ruta"
+  },
+  {
+   "guia": "G-70285",
+   "id_pedido": "PED-0040",
+   "transportadora": "TransHuila Express",
+   "fechas": {
+    "compromiso": "2026-09-11",
+    "entrega": "2026-09-11"
+   },
+   "novedad": null
+  },
+  {
+   "guia": "G-70785",
+   "id_pedido": "PED-0112",
+   "transportadora": "TransHuila Express",
+   "fechas": {
+    "compromiso": "2026-09-28",
+    "entrega": "28/09/2026"
+   },
+   "novedad": null
+  },
+  {
+   "guia": "G-70843",
+   "id_pedido": "PED-0120",
+   "transportadora": "TransHuila Express",
+   "fechas": {
+    "compromiso": "2026-09-30",
+    "entrega": "29/09/2026"
+   },
+   "novedad": null
+  },
+  {
+   "guia": "G-70321",
+   "id_pedido": "PED-0045",
+   "transportadora": "TransHuila Express",
+   "fechas": {
+    "compromiso": "2026-09-12",
+    "entrega": "2026-09-12"
+   },
+   "novedad": null
+  },
+  {
+   "guia": "G-70423",
+   "id_pedido": "PED-0060",
+   "transportadora": "TransHuila Express",
+   "fechas": {
+    "compromiso": "2026-09-16",
+    "entrega": "18/09/2026"
+   },
+   "novedad": "Vehículo varado"
+  },
+  {
+   "guia": "G-70448",
+   "id_pedido": "PED-0064",
+   "transportadora": "Flota propia",
+   "fechas": {
+    "compromiso": "2026-09-16",
+    "entrega": "2026-09-16"
+   },
+   "novedad": null
+  },
+  {
+   "guia": "G-70710",
+   "id_pedido": "PED-0101",
+   "transportadora": "TransHuila Express",
+   "fechas": {
+    "compromiso": "2026-09-26",
+    "entrega": "26/09/2026"
+   },
+   "novedad": null
+  },
+  {
+   "guia": "G-70101",
+   "id_pedido": "PED-0014",
+   "transportadora": "Flota propia",
+   "fechas": {
+    "compromiso": "2026-09-04",
+    "entrega": "2026-09-04"
+   },
+   "novedad": null
+  },
+  {
+   "guia": "G-70228",
+   "id_pedido": "PED-0032",
+   "transportadora": "Flota propia",
+   "fechas": {
+    "compromiso": "2026-09-09",
+    "entrega": "2026-09-09"
+   },
+   "novedad": null
+  },
+  {
+   "guia": "G-70387",
+   "id_pedido": "PED-0055",
+   "transportadora": "TransHuila Express",
+   "fechas": {
+    "compromiso": "2026-09-14",
+    "entrega": "14/09/2026"
+   },
+   "novedad": null
+  },
+  {
+   "guia": "G-70184",
+   "id_pedido": "PED-0026",
+   "transportadora": "Flota propia",
+   "fechas": {
+    "compromiso": "2026-09-08",
+    "entrega": "2026-09-07"
+   },
+   "novedad": null
+  },
+  {
+   "guia": "G-70607",
+   "id_pedido": "PED-0086",
+   "transportadora": "Rápido Sur",
+   "fechas": {
+    "compromiso": "2026-09-23",
+    "entrega": "2026-09-22"
+   },
+   "novedad": null
+  },
+  {
+   "guia": "G-70372",
+   "id_pedido": "PED-0053",
+   "transportadora": "TransHuila Express",
+   "fechas": {
+    "compromiso": "2026-09-14",
+    "entrega": "14/09/2026"
+   },
+   "novedad": null
+  },
+  {
+   "guia": "G-70354",
+   "id_pedido": "PED-0050",
+   "transportadora": "TransHuila Express",
+   "fechas": {
+    "compromiso": "2026-09-14",
+    "entrega": "14/09/2026"
+   },
+   "novedad": null
+  },
+  {
+   "guia": "G-70795",
+   "id_pedido": "PED-0113",
+   "transportadora": "Rápido Sur",
+   "fechas": {
+    "compromiso": "2026-09-28",
+    "entrega": "2026-09-28"
+   },
+   "novedad": null
+  },
+  {
+   "guia": "G-70162",
+   "id_pedido": "PED-0023",
+   "transportadora": "Flota propia",
+   "fechas": {
+    "compromiso": "2026-09-07",
+    "entrega": "2026-09-07"
+   },
+   "novedad": null
+  },
+  {
+   "guia": "G-70010",
+   "id_pedido": "PED-0001",
+   "transportadora": "Rápido Sur",
+   "fechas": {
+    "compromiso": "2026-09-03",
+    "entrega": "2026-09-04"
+   },
+   "novedad": "Vía cerrada"
+  },
+  {
+   "guia": "G-70893",
+   "id_pedido": "PED-0127",
+   "transportadora": "TransHuila Express",
+   "fechas": {
+    "compromiso": "2026-10-02",
+    "entrega": "02/10/2026"
+   },
+   "novedad": null
+  },
+  {
+   "guia": "G-70118",
+   "id_pedido": "PED-0016",
+   "transportadora": "TransHuila Express",
+   "fechas": {
+    "compromiso": "2026-09-07",
+    "entrega": "2026-09-07"
+   },
+   "novedad": null
+  },
+  {
+   "guia": "G-70325",
+   "id_pedido": "PED-0046",
+   "transportadora": "Rápido Sur",
+   "fechas": {
+    "compromiso": "2026-09-14",
+    "entrega": "2026-09-13"
+   },
+   "novedad": null
+  },
+  {
+   "guia": "G-70403",
+   "id_pedido": "PED-0057",
+   "transportadora": "TransHuila Express",
+   "fechas": {
+    "compromiso": "2026-09-16",
+    "entrega": "16/09/2026"
+   },
+   "novedad": null
+  },
+  {
+   "guia": "G-70555",
+   "id_pedido": "PED-0079",
+   "transportadora": "TransHuila Express",
+   "fechas": {
+    "compromiso": "2026-09-19",
+    "entrega": "19/09/2026"
+   },
+   "novedad": null
+  },
+  {
+   "guia": "G-70760",
+   "id_pedido": "PED-0108",
+   "transportadora": "Rápido Sur",
+   "fechas": {
+    "compromiso": "2026-09-28",
+    "entrega": "2026-10-01"
+   },
+   "novedad": "Retraso en ruta"
+  },
+  {
+   "guia": "G-70545",
+   "id_pedido": "PED-0077",
+   "transportadora": "TransHuila Express",
+   "fechas": {
+    "compromiso": "2026-09-21",
+    "entrega": "21/09/2026"
+   },
+   "novedad": null
+  },
+  {
+   "guia": "G-70407",
+   "id_pedido": "PED-0058",
+   "transportadora": "Flota propia",
+   "fechas": {
+    "compromiso": "2026-09-15",
+    "entrega": "2026-09-15"
+   },
+   "novedad": null
+  },
+  {
+   "guia": "G-70369",
+   "id_pedido": "PED-0052",
+   "transportadora": "TransHuila Express",
+   "fechas": {
+    "compromiso": "2026-09-14",
+    "entrega": "13/09/2026"
+   },
+   "novedad": null
+  },
+  {
+   "guia": "G-70210",
+   "id_pedido": "PED-0030",
+   "transportadora": "TransHuila Express",
+   "fechas": {
+    "compromiso": "2026-09-08",
+    "entrega": "2026-09-08"
+   },
+   "novedad": null
+  },
+  {
+   "guia": "G-70252",
+   "id_pedido": "PED-0036",
+   "transportadora": "Flota propia",
+   "fechas": {
+    "compromiso": "2026-09-10",
+    "entrega": "2026-09-10"
+   },
+   "novedad": null
+  },
+  {
+   "guia": "G-70881",
+   "id_pedido": "PED-0125",
+   "transportadora": "TransHuila Express",
+   "fechas": {
+    "compromiso": "2026-10-01",
+    "entrega": "01/10/2026"
+   },
+   "novedad": null
+  },
+  {
+   "guia": "G-70693",
+   "id_pedido": "PED-0099",
+   "transportadora": "TransHuila Express",
+   "fechas": {
+    "compromiso": "2026-09-25",
+    "entrega": "24/09/2026"
+   },
+   "novedad": null
+  },
+  {
+   "guia": "G-70059",
+   "id_pedido": "PED-0008",
+   "transportadora": "TransHuila Express",
+   "fechas": {
+    "compromiso": "2026-09-03",
+    "entrega": "2026-09-03"
+   },
+   "novedad": null
+  },
+  {
+   "guia": "G-70774",
+   "id_pedido": "PED-0110",
+   "transportadora": "Rápido Sur",
+   "fechas": {
+    "compromiso": "2026-09-28",
+    "entrega": null
+   },
+   "novedad": "Reprogramado por la tienda"
+  },
+  {
+   "guia": "G-70633",
+   "id_pedido": "PED-0090",
+   "transportadora": "Flota propia",
+   "fechas": {
+    "compromiso": "2026-09-22",
+    "entrega": "2026-09-22"
+   },
+   "novedad": null
+  },
+  {
+   "guia": "G-70429",
+   "id_pedido": "PED-0061",
+   "transportadora": "TransHuila Express",
+   "fechas": {
+    "compromiso": "2026-09-17",
+    "entrega": "17/09/2026"
+   },
+   "novedad": null
+  },
+  {
+   "guia": "G-70204",
+   "id_pedido": "PED-0029",
+   "transportadora": "TransHuila Express",
+   "fechas": {
+    "compromiso": "2026-09-09",
+    "entrega": "2026-09-08"
+   },
+   "novedad": null
+  },
+  {
+   "guia": "G-70783",
+   "id_pedido": "PED-0111",
+   "transportadora": "Rápido Sur",
+   "fechas": {
+    "compromiso": "2026-09-28",
+    "entrega": "2026-09-28"
+   },
+   "novedad": null
+  },
+  {
+   "guia": "G-70069",
+   "id_pedido": "PED-0009",
+   "transportadora": "TransHuila Express",
+   "fechas": {
+    "compromiso": "2026-09-04",
+    "entrega": "2026-09-04"
+   },
+   "novedad": null
+  },
+  {
+   "guia": "G-70870",
+   "id_pedido": "PED-0124",
+   "transportadora": "TransHuila Express",
+   "fechas": {
+    "compromiso": "2026-09-30",
+    "entrega": "30/09/2026"
+   },
+   "novedad": null
+  },
+  {
+   "guia": "G-70156",
+   "id_pedido": "PED-0022",
+   "transportadora": "Flota propia",
+   "fechas": {
+    "compromiso": "2026-09-07",
+    "entrega": "2026-09-06"
+   },
+   "novedad": null
+  },
+  {
+   "guia": "G-70465",
+   "id_pedido": "PED-0066",
+   "transportadora": "Rápido Sur",
+   "fechas": {
+    "compromiso": "2026-09-18",
+    "entrega": "2026-09-18"
+   },
+   "novedad": null
+  },
+  {
+   "guia": "G-70473",
+   "id_pedido": "PED-0067",
+   "transportadora": "Rápido Sur",
+   "fechas": {
+    "compromiso": "2026-09-18",
+    "entrega": "2026-09-20"
+   },
+   "novedad": "Vehículo varado"
+  },
+  {
+   "guia": "G-70716",
+   "id_pedido": "PED-0102",
+   "transportadora": "TransHuila Express",
+   "fechas": {
+    "compromiso": "2026-09-25",
+    "entrega": "25/09/2026"
+   },
+   "novedad": null
+  },
+  {
+   "guia": "G-70753",
+   "id_pedido": "PED-0107",
+   "transportadora": "Flota propia",
+   "fechas": {
+    "compromiso": "2026-09-26",
+    "entrega": "2026-09-26"
+   },
+   "novedad": null
+  },
+  {
+   "guia": "G-70179",
+   "id_pedido": "PED-0025",
+   "transportadora": "Rápido Sur",
+   "fechas": {
+    "compromiso": "2026-09-07",
+    "entrega": "2026-09-07"
+   },
+   "novedad": null
+  }
+ ]
+}
